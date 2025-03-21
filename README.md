@@ -45,5 +45,5 @@ Exploratory Data Analysis (EDA)
 Exploratory Data Analysis Notebook
 
 
-Link : 
+Link : https://github.com/pheonix2109/WalmartSalesAnalysis/blob/main/Walmart_Sales_Analysis.ipynb
 
