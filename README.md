@@ -21,9 +21,9 @@ ABOUT DATASET:
       enabling Walmart to optimize operations and enhance decision-making.
       
    
-   Dataset Source Link  
+       Dataset Source Link  
   
- https://www.kaggle.com/datasets/ankitrajmishra/walmart
+         https://www.kaggle.com/datasets/ankitrajmishra/walmart
 
 
 Technologies Used:
