@@ -23,7 +23,7 @@ ABOUT DATASET:
    
    Dataset Source Link  
   
-    https://www.kaggle.com/datasets/ankitrajmishra/walmart
+ https://www.kaggle.com/datasets/ankitrajmishra/walmart
 
 
 Technologies Used:
