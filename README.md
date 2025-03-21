@@ -7,13 +7,16 @@ GOAL:
     
 ABOUT DATASET:
 
-      The dataset provides a comprehensive view of Walmart's operational and sales data, capturing details of transactions, products, customers, stores, and external factors like promotions and weather. 
-      Key attributes include transaction details (e.g., ID, date, quantity sold, unit price), 
-      customer information (e.g., loyalty level, payment method), 
-      product details (e.g., ID, name, category), 
-      store specifics (e.g., ID, location),
-      and 
-      external factors (e.g., weather, holidays, promotions). 
+      The dataset provides a comprehensive view of Walmart's operational and sales data, 
+      capturing details of transactions, products, customers, stores, and external factors like promotions and weather. 
+      
+      Key attributes include 
+            - transaction details (e.g., ID, date, quantity sold, unit price), 
+            - customer information (e.g., loyalty level, payment method), 
+            - product details (e.g., ID, name, category), 
+            - store specifics (e.g., ID, location),
+            - external factors (e.g., weather, holidays, promotions). 
+      
       The dataset supports analyses like demand forecasting, inventory management, sales performance, customer behavior, and promotion effectiveness, 
       enabling Walmart to optimize operations and enhance decision-making.
       
