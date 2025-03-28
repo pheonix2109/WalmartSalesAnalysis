@@ -31,7 +31,6 @@ Technologies Used:
     - Python (Pandas, NumPy, Matplotlib, Seaborn)
     - Data Visualization (Charts and graphs for insights)
     
-Exploratory Data Analysis (EDA)
 
  Key Insights from the Analysis:
  
